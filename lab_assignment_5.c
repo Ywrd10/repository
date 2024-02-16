@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// This is an updated versiob
+//
 typedef struct node {
 	char letter;
 	struct node* next;
